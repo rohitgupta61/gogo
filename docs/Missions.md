@@ -9,6 +9,9 @@ authors:
 ---
 Missions provide short-term, meaningful challenges that can be achieved in a few sessions. Completing a task releases a feel-good chemical (i.e., Dopamine) in the user's brain, which encourages users to repeat the same action. Consequently, this leads to an increase in the overall Lifetime Value (LTV).
 
+![mission](https://ibb.co/nLtMq2z)
+
+
 ### Objective
 To increase the LTV by 
 
