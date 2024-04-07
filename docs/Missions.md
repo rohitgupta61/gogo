@@ -1,24 +1,19 @@
 ---
 draft: False
-
-
-
 date: 2024-01-18
-
 slug: public-baths
 categories:
   - Retention
 authors:
   - RG
 ---
-
 Missions provide short-term, meaningful challenges that can be achieved in a few sessions. Completing a task releases a feel-good chemical (i.e., Dopamine) in the user's brain, which encourages users to repeat the same action. Consequently, this leads to an increase in the overall Lifetime Value (LTV).
 
 ### Objective
 To increase the LTV by 
 
-1. Making users play more than their habit i.e. longer sessions, higher retention and monetisation 
-2. Making users bet more than their habit i.e. higher bet, higher monetisation
+- Making users play more than their habit i.e. longer sessions, higher retention and monetisation 
+- Making users bet more than their habit i.e. higher bet, higher monetisation
 
 ### Criteria to create a Mission?
 1. Missions should **fit within the core loop action**. For Octro Poker, the core loop involves playing Poker: Public, SNW, SNG, and MTT.
@@ -45,11 +40,12 @@ Example: if a user plays public 50 hands each day at stake 50k/100k, he should b
 - Win 6M at 50k/100k (objective 1,2: play more, bet more) [6M = 20% of extra of chips losing (50*100k)] etc.
 
 ### Resources
-Daily Quest systems you thought were innovative/well-executed 
+- [Daily Quest systems you thought were innovative/well-executed](https://www.reddit.com/r/gamedesign/comments/f79ecg/
+daily_quest_systems_you_thought_were/)
+- [How do I make daily quests not feel boring or menial?](https://www.reddit.com/r/gamedesign/comments/z0irdp/
+how_do_i_make_daily_quests_not_feel_boring_or/)
 
-How do I make daily quests not feel boring or menial? 
-
-Designing daily quests for multiplayer games 
+- [Designing daily quests for multiplayer games](https://zeworkshop.wordpress.com/2017/06/17/designing-daily-quests-for-multiplayer/)
 
 Examples from competitors 
 
