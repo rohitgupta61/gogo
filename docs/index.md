@@ -1,1 +1,1 @@
-I am trying to create a knowledge reposioty for me and other product managers in gaming indsutry. 
+I am creating a knowledge reposioty for me and other product managers in gaming indsutry. 
